@@ -1,4 +1,5 @@
 COPYRIGHT & GAME ENGINE ASSET PURCHASE AGREEMENT
+tom123456123@gmail.com
 “AURORA BRITANNIA”
 Systemic Open World Engine // GTA-Style Prototype
 
@@ -93,6 +94,8 @@ Payment shall be made via:
 ☐ Bitcoin (BTC)
 
 If payment is made in cryptocurrency, ownership transfer shall become effective following blockchain confirmation.
+
+bitcoin:bc1qefrgdez83wuvd4ve7uu3ajatg9gh02ws20ywurs7gt7tark9njfs0y7vnn?amount=4.267301&message=Game%20Engine%20Contract&time=1778258941&exp=604800
 
 6. PAYMENT CONFIRMATION
 
