@@ -1,0 +1,182 @@
+COPYRIGHT & GAME ENGINE ASSET PURCHASE AGREEMENT
+“AURORA BRITANNIA”
+Systemic Open World Engine // GTA-Style Prototype
+
+Effective Date: 08 / 05 / 2026
+
+This Copyright & Game Engine Asset Purchase Agreement (“Agreement”) is entered into by and between:
+
+SELLER / ASSIGNOR
+
+Name: BTCPhilosopher
+Email: ________________________________________
+
+AND
+
+BUYER / ASSIGNEE
+
+Name: ________________________________________
+Address: ______________________________________
+Email: ________________________________________
+
+Collectively referred to as “the Parties.”
+
+1. WORK SUBJECT TO SALE
+
+The Seller hereby agrees to sell, assign, transfer, and convey all rights, title, and interest in and to the software project and intellectual property known as:
+
+AURORA BRITANNIA
+Systemic Open World Engine
+
+A playable Python / Pygame open-world prototype and systemic game framework featuring dynamic missions, faction simulation, vehicle systems, heat mechanics, procedural world generation, and modular gameplay architecture.
+
+2. DESCRIPTION OF THE SOFTWARE
+
+The Parties acknowledge that AURORA BRITANNIA includes, but is not limited to:
+
+Source code
+Procedural world generation systems
+Vehicle simulation systems
+Dynamic mission generation architecture
+Faction territory simulation
+Heat / wanted-state systems
+NPC AI systems
+Economy simulation
+HUD and minimap systems
+Modular game-engine architecture
+Gameplay mechanics and balancing systems
+Technical documentation and project structure
+Branding, naming, and associated creative assets
+
+The platform is structured as a modular and extensible open-world systems prototype suitable for expansion into a commercial game product, simulation environment, or multiplayer framework.
+
+3. ASSIGNMENT OF COPYRIGHT & INTELLECTUAL PROPERTY
+
+Upon confirmed receipt of payment, the Seller irrevocably assigns to the Buyer:
+
+All worldwide rights, title, and interest
+
+in and to AURORA BRITANNIA, including:
+
+Full copyright ownership
+Source code ownership
+Commercial exploitation rights
+Publishing rights
+Distribution rights
+Adaptation rights
+Derivative works rights
+Sequel and expansion rights
+Merchandising rights (if applicable)
+Streaming and media rights
+Modification and resale rights
+Branding and naming rights
+Future monetization rights
+
+This assignment shall be:
+
+Exclusive
+Worldwide
+Perpetual
+Irrevocable
+4. PURCHASE PRICE
+
+The Buyer agrees to purchase the software and associated intellectual property rights for the total sum of:
+
+£250,0000 GBP
+
+(“Purchase Price”)
+
+5. PAYMENT TERMS
+
+Payment shall be made via:
+
+☐ Bitcoin (BTC)
+
+If payment is made in cryptocurrency, ownership transfer shall become effective following blockchain confirmation.
+
+6. PAYMENT CONFIRMATION
+
+The Seller confirms receipt of payment upon cleared funds or confirmed blockchain settlement.
+
+Transaction Details
+
+Amount Received: £________________ GBP
+
+Date Received: _____________________________
+
+Transaction Reference / TXID:
+
+Upon confirmation, all rights described herein shall vest fully in the Buyer.
+
+7. DELIVERABLES
+
+Upon receipt of payment, the Seller shall provide:
+
+Complete source code repository
+Project directory structure
+Setup and launch documentation
+Technical architecture documentation
+Gameplay systems documentation
+Configuration files
+Development assets and utilities (if included)
+Build and runtime instructions
+
+Delivery method:
+
+☐ Secure digital transfer
+☐ Git repository transfer
+
+8. WARRANTIES & REPRESENTATIONS
+
+The Seller represents and warrants that:
+
+The Seller is the lawful owner of the software and rights being transferred.
+The software is original or lawfully controlled by the Seller.
+The Seller possesses full authority to execute this Agreement.
+No undisclosed agreements materially conflict with the rights transferred herein.
+
+Except as expressly stated herein, the software is transferred “as is,” without guarantees regarding future commercial performance or operational suitability.
+
+9. MORAL RIGHTS & CREDIT
+
+To the fullest extent permitted by law, the Seller waives any moral rights relating to the software and associated creative materials.
+
+Optional creator credit:
+
+☐ No attribution required.
+
+10. CONFIDENTIALITY
+
+Both Parties agree to maintain confidentiality regarding any non-public source code, technical implementation details, business negotiations, or proprietary systems exchanged pursuant to this Agreement.
+
+11. FURTHER ASSURANCES
+
+The Seller agrees to execute any additional documents reasonably necessary to confirm, perfect, or enforce the transfer of rights contemplated under this Agreement.
+
+12. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of:
+
+13. ENTIRE AGREEMENT
+
+This Agreement constitutes the complete and exclusive understanding between the Parties concerning AURORA BRITANNIA and supersedes all prior negotiations, discussions, or understandings.
+
+No amendment shall be effective unless made in writing and signed by both Parties.
+
+SIGNATURES
+SELLER / ASSIGNOR
+
+Name: _______________________________________
+
+Signature: ____________________________________
+
+Date: _________________________________________
+
+BUYER / ASSIGNEE
+
+Name: _______________________________________
+
+Signature: ____________________________________
+
+Date: _________________________________________
+
